@@ -1,1 +1,1 @@
-"bowler.l@northeastern.edu" 
+bowler.l@northeastern.edu 
